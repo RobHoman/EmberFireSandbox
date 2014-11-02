@@ -1,0 +1,16 @@
+{
+  "name": "EmberFireSandbox",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TheBobalos/EmberFireSandbox",
+  "authors": [
+    "Rob Homan <homan.robertc@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

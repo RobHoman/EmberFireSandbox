@@ -4,7 +4,7 @@
   "author": "Rob Homan <homan.robertc@gmail.com>",
   "version": "0.0.1",
   "dependencies": {
+    "bower": "^1.3.12"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
