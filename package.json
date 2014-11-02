@@ -1,0 +1,10 @@
+{
+  "name": "EmberFireSandbox",
+  "description": "A space to test out the features for Ember and Firebase",
+  "author": "Rob Homan <homan.robertc@gmail.com>",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
