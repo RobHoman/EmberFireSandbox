@@ -12,5 +12,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^2.1.1",
+    "ember": "~1.7.1",
+    "ember-data": "~1.0.0-beta.8",
+    "ember-localstorage-adapter": "~0.4.0"
+  }
 }
